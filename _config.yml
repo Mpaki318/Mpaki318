@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+
+title: Mpaki Mashego
+
+description: >
+  Final-year Information Systems student with a background in Statistics and Data Science.
+  Aspiring Data Engineer interested in data engineering, analytics, AI, and cloud technologies.
+  This portfolio showcases my academic projects, technical skills, and learning journey.
+
+logo: /assets/img/profile.jpg
+
+show_downloads: false
+
+github:
+  is_project_page: false
